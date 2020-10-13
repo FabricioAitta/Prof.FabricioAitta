@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09872fd704cebccebf8fefb9cdce02df",
+    "revision": "bcb2c8302b513be40c83158caa39f6ef",
     "url": "/Prof.FabricioAitta/index.html"
   },
   {
-    "revision": "275f9e7824beb8ccb9d0",
-    "url": "/Prof.FabricioAitta/static/css/main.1cab6db5.chunk.css"
+    "revision": "e3fa4d14108c99c97086",
+    "url": "/Prof.FabricioAitta/static/css/main.1afdf83f.chunk.css"
   },
   {
     "revision": "86c2afef2819477fc331",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Prof.FabricioAitta/static/js/2.de961763.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "275f9e7824beb8ccb9d0",
+    "revision": "e3fa4d14108c99c97086",
     "url": "/Prof.FabricioAitta/static/js/main.fd5f4f55.chunk.js"
   },
   {

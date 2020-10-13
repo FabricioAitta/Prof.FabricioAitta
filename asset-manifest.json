@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Prof.FabricioAitta/static/css/main.1cab6db5.chunk.css",
+    "main.css": "/Prof.FabricioAitta/static/css/main.1afdf83f.chunk.css",
     "main.js": "/Prof.FabricioAitta/static/js/main.fd5f4f55.chunk.js",
     "main.js.map": "/Prof.FabricioAitta/static/js/main.fd5f4f55.chunk.js.map",
     "runtime-main.js": "/Prof.FabricioAitta/static/js/runtime-main.19f77802.js",
@@ -8,9 +8,9 @@
     "static/js/2.de961763.chunk.js": "/Prof.FabricioAitta/static/js/2.de961763.chunk.js",
     "static/js/2.de961763.chunk.js.map": "/Prof.FabricioAitta/static/js/2.de961763.chunk.js.map",
     "index.html": "/Prof.FabricioAitta/index.html",
-    "precache-manifest.c9db0c898345fd25d2f4ff440b91fc89.js": "/Prof.FabricioAitta/precache-manifest.c9db0c898345fd25d2f4ff440b91fc89.js",
+    "precache-manifest.a74124b9ae9eb8231542b3dae5b4ce0b.js": "/Prof.FabricioAitta/precache-manifest.a74124b9ae9eb8231542b3dae5b4ce0b.js",
     "service-worker.js": "/Prof.FabricioAitta/service-worker.js",
-    "static/css/main.1cab6db5.chunk.css.map": "/Prof.FabricioAitta/static/css/main.1cab6db5.chunk.css.map",
+    "static/css/main.1afdf83f.chunk.css.map": "/Prof.FabricioAitta/static/css/main.1afdf83f.chunk.css.map",
     "static/js/2.de961763.chunk.js.LICENSE.txt": "/Prof.FabricioAitta/static/js/2.de961763.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Prof.FabricioAitta/static/media/stretching.4c89acb6.jpg",
     "static/media/instagram.png": "/Prof.FabricioAitta/static/media/instagram.5c570427.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.19f77802.js",
     "static/js/2.de961763.chunk.js",
-    "static/css/main.1cab6db5.chunk.css",
+    "static/css/main.1afdf83f.chunk.css",
     "static/js/main.fd5f4f55.chunk.js"
   ]
 }
